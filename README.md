@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm
 
-### Mehdi Hassan
+### Shuaib Zlkarnain 
 
 - 🌱 I’m currently learning Data Analytics
-- 💬 Ask me about Financial Report
+- 💬 Ask me about Data Insights
 - 😄 Pronouns: he/him
